@@ -1,0 +1,31 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Wi-Fi Concentric Arcs -->
+    <path
+        android:strokeColor="#10B981"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:pathData="M42,56 A16,16 0 0,1 66,56" />
+    <path
+        android:strokeColor="#06B6D4"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:pathData="M34,46 A26,26 0 0,1 74,46" />
+    <path
+        android:strokeColor="#3B82F6"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:pathData="M26,36 A36,36 0 0,1 82,36" />
+    <!-- Signal Mast Base Dot -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M54,68m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0" />
+    <!-- Heatmap Radar Target / Pointer -->
+    <path
+        android:strokeColor="#F59E0B"
+        android:strokeWidth="2.5"
+        android:pathData="M54,26 v-6 M54,82 v6 M26,54 h-6 M82,54 h6" />
+</vector>
